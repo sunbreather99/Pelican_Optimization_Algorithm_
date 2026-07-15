@@ -25,7 +25,7 @@ Begin the Code
 
 1. Clone the Repository
 
-git clone https://github.com/stackbyaditya/Pelican_Optimization_Algorithm.git
+git clone https://github.com/sunbreather99/Pelican_Optimization_Algorithm_.git
 cd pelican-optimization-algorithm
 
 2. Install Required Packages
