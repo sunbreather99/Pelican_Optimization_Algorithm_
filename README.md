@@ -56,7 +56,7 @@ Zahra Saremi, Seyedali Mirjalili, Expert Systems with Applications, 2022
 ---
 
 Author
-Developed by Sarang Agrawal, Aditya Kumar & Saksham Chopra 
-Email: aditya_kumar.ug23@nsut.ac.in , saksham.chopra.ug23@nsut.ac.in 
-LinkedIn: www.linkedin.com/in/aditya-kumar-48380a28b , www.linkedin.com/in/saksham-chopra-122312240 
-GitHub: github.com/stackbyaditya , github.com/sunbreather99
+Developed by Saksham Chopra,  Aditya Kumar & Sarang Agarawal  
+Email: saksham.chopra.ug23@nsut.ac.in , aditya_kumar.ug23@nsut.ac.in 
+LinkedIn : www.linkedin.com/in/saksham-chopra-122312240 , www.linkedin.com/in/aditya-kumar-48380a28b  
+GitHub: github.com/sunbreather99 , github.com/stackbyaditya 
