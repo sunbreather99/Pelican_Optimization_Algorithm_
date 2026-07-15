@@ -1,0 +1,7 @@
+Function: F14
+Best Score: -51245.0
+Worst Score: -41300.0
+Mean Score: -44924.333333333336
+Standard Deviation: 4485.414609846253
+All Best Scores:
+-51245.0, -42228.0, -41300.0

@@ -1,0 +1,7 @@
+Function: F2
+Best Score: -8342.36220715022
+Worst Score: -8342.36220715022
+Mean Score: -8342.36220715022
+Standard Deviation: 0.0
+All Best Scores:
+-8342.36220715022

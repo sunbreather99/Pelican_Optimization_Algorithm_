@@ -1,0 +1,7 @@
+Function: F3
+Best Score: 68646.15339049177
+Worst Score: 68646.15339049177
+Mean Score: 68646.15339049177
+Standard Deviation: 0.0
+All Best Scores:
+68646.15339049177

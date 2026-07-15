@@ -1,0 +1,10 @@
+->Requirements
+
+numpy
+pandas
+matplotlib
+sklearn
+
+->Once this file is in your project folder, run:
+
+pip install -r requirements.txt

@@ -1,0 +1,7 @@
+Function: F8
+Best Score: 48558.75
+Worst Score: 85625.75
+Mean Score: 64500.25
+Standard Deviation: 15570.185489154157
+All Best Scores:
+48558.75, 85625.75, 59316.25

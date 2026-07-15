@@ -1,0 +1,7 @@
+Function: F1
+Best Score: 55106.06645437492
+Worst Score: 55106.06645437492
+Mean Score: 55106.06645437492
+Standard Deviation: 0.0
+All Best Scores:
+55106.06645437492

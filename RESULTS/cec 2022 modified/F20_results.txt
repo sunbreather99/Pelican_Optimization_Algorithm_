@@ -1,0 +1,7 @@
+Function: F20
+Best Score: -64916.0
+Worst Score: -59627.0
+Mean Score: -62368.666666666664
+Standard Deviation: 2163.593358795091
+All Best Scores:
+-62563.0, -59627.0, -64916.0

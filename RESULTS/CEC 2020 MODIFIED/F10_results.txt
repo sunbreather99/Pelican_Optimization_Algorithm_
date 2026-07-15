@@ -1,0 +1,7 @@
+Function: F10
+Best Score: 31.983630261445143
+Worst Score: 31.983630261445143
+Mean Score: 31.983630261445143
+Standard Deviation: 0.0
+All Best Scores:
+31.983630261445143

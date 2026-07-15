@@ -1,0 +1,7 @@
+Function: F4
+Best Score: -2653.312509964641
+Worst Score: -2653.312509964641
+Mean Score: -2653.312509964641
+Standard Deviation: 0.0
+All Best Scores:
+-2653.312509964641

@@ -1,0 +1,7 @@
+Function: F24
+Best Score: -42237.0
+Worst Score: -37810.0
+Mean Score: -39602.0
+Standard Deviation: 1903.079784629816
+All Best Scores:
+-42237.0, -37810.0, -38759.0
